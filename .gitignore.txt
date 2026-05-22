@@ -1,0 +1,14 @@
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы данных
+*.csv
+*.json
+*.log
+
+# Виртуальные окружения
+venv/
+env/
